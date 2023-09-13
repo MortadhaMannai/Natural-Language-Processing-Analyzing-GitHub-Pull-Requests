@@ -17,8 +17,8 @@ The goal is to dig deeper into the nature of blockers and analyze the requests f
 
 ## Content
 - Report.pdf is a PDF report that details my approach.
-- images is a collection of the images that I included in my report
-- TopicModelling.ipynb is a Jupyter Notebook in which I have do my analysis in Python
+- images is a collection of the images that I included in my report.
+- TopicModelling.ipynb is a Jupyter Notebook in which I have do my analysis in Python.
 - corpus.pkl, dictionary.gensim, and all files starting with model… are files generated in the notebook that I use to avoid re-running some steps.
 
 ## Theory covered
